@@ -1,3 +1,2 @@
 #!/usr/bin/env bash
-ps -e -f --forest
-
+ps -ef --forest
